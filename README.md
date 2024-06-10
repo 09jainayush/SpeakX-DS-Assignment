@@ -1,1 +1,2 @@
-[embed]https://drive.google.com/file/d/1l1ilVePo8Cvp1HGYxJt-Fgb9GZ0gvlJD/view?usp=drive_link[/embed]
+This repository contains all the files required for the Evaluation of Data Science Assignment of SpeakX
+Submitted By: Ayush Jain (12103026), B. Tech. CSE, Lovely Professional University
